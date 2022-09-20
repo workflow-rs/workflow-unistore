@@ -1,4 +1,4 @@
-# WORKFLOW-UNISTORE
+## WORKFLOW-UNISTORE
 
 Part of the [WORKFLOW-RS](https://github.com/workflow-rs) application framework.
 
@@ -8,7 +8,7 @@ A simple file I/O abstraction that supports browser localstorage.
 
 Platforms supported: Native, WASM (browser)
 
-# Features:
+## Features
 
 * A single set of per-operating-system filename configuration options with fallbacks. (i.e. filename for `macos` or `linux` will fallback on `unix` or `generic` if not defined)
 * Automatic resolution of user home-folder is using `~` as a path prefix.
