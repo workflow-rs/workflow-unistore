@@ -2,6 +2,14 @@
 name = "workflow-unistore"
 version = "0.1.0"
 edition = "2021"
+license = "Apache-2.0 OR MIT"
+repository = "https://github.com/workflow-rs/workflow-unistore"
+keywords = ["wasm","framework","storage","browser","localstorage","file","io"]
+categories = []
+exclude = ["/.*", "/test"]
+description = """
+File storage access crate abstracting file I/O and browser localstorage
+"""
 
 [lib]
 crate-type = ["cdylib", "lib"]
@@ -16,7 +24,6 @@ base64 = "0.13.0"
 home = "0.5.3"
 async-std = { version = "1.12.0", features = ['attributes'] }
 
-# [target.'cfg(target_arch = "wasm32")'.dependencies.web-sys]
 [dependencies.web-sys]
 version = "0.3.56"
 features = [
