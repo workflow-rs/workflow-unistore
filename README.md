@@ -11,10 +11,6 @@ A simple file I/O abstraction that supports browser localstorage.
 ![platform](https://img.shields.io/badge/platform-Native-informational)
 ![platform](https://img.shields.io/badge/platform-Web%20%28wasm32%29-informational)
 
-https://shields.io/badge/platform-Wasm32(browser)-informational
-
-Platforms supported: Native, WASM (browser)
-
 ## Features
 
 * A single set of per-operating-system filename configuration options with fallbacks. (i.e. filename for `macos` or `linux` will fallback on `unix` or `generic` if not defined)
