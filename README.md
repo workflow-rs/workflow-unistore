@@ -9,7 +9,7 @@ A simple file I/O abstraction that supports browser localstorage.
 [![Crates.io](https://img.shields.io/crates/l/workflow-unistore.svg?maxAge=2592000)](https://crates.io/crates/workflow-unistore)
 [![Crates.io](https://img.shields.io/crates/v/workflow-unistore.svg?maxAge=2592000)](https://crates.io/crates/workflow-unistore)
 ![platform](https://img.shields.io/badge/platform-Native-informational)
-![platform](https://img.shields.io/badge/platform-Wasm32%20%28web%29-informational)
+![platform](https://img.shields.io/badge/platform-Web%20%28wasm32%29-informational)
 
 https://shields.io/badge/platform-Wasm32(browser)-informational
 
