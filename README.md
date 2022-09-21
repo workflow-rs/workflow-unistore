@@ -6,6 +6,13 @@ Part of the [WORKFLOW-RS](https://github.com/workflow-rs) application framework.
 
 A simple file I/O abstraction that supports browser localstorage.
 
+[![Crates.io](https://img.shields.io/crates/l/workflow-unistore.svg?maxAge=2592000)](https://crates.io/crates/workflow-unistore)
+[![Crates.io](https://img.shields.io/crates/v/workflow-unistore.svg?maxAge=2592000)](https://crates.io/crates/workflow-unistore)
+![platform](https://img.shields.io/badge/platform-Native)
+![platform](https://img.shields.io/badge/platform-Wasm32%28browser%29-informational)
+
+https://shields.io/badge/platform-Wasm32(browser)-informational
+
 Platforms supported: Native, WASM (browser)
 
 ## Features
